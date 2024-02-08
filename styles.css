@@ -98,7 +98,7 @@ body {
   min-height: 100vh;
   width: 100%;
   color: #224;
-  background: url("/assets/images/dollar.jpg") center / cover no-repeat fixed;
+  background: url("./assets/images/dollar.jpg") center / cover no-repeat fixed;
   overflow: hidden;
 }
 
